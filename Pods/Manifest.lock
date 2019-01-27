@@ -1,0 +1,174 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.3.0)
+  - Alamofire (4.8.1)
+  - AlamofireObjectMapper (4.1.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 2.0)
+  - Bolts (1.9.0):
+    - Bolts/AppLinks (= 1.9.0)
+    - Bolts/Tasks (= 1.9.0)
+  - Bolts/AppLinks (1.9.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.9.0)
+  - DatePickerDialog (2.0)
+  - FacebookCore (0.5.0):
+    - Bolts (~> 1.9)
+    - FBSDKCoreKit (~> 4.37)
+  - FacebookLogin (0.5.0):
+    - Bolts (~> 1.9)
+    - FacebookCore (~> 0.5)
+    - FBSDKCoreKit (~> 4.37)
+    - FBSDKLoginKit (~> 4.37)
+  - FacebookShare (0.5.0):
+    - Bolts (~> 1.9)
+    - FacebookCore (~> 0.5)
+    - FBSDKCoreKit (~> 4.37)
+    - FBSDKShareKit (~> 4.37)
+  - FBSDKCoreKit (4.40.0):
+    - Bolts (~> 1.9)
+  - FBSDKLoginKit (4.40.0):
+    - FBSDKCoreKit
+  - FBSDKShareKit (4.40.0):
+    - FBSDKCoreKit
+  - Gallery (2.2.0)
+  - GoogleSignIn (4.4.0):
+    - "GoogleToolboxForMac/NSDictionary+URLArguments (~> 2.1)"
+    - "GoogleToolboxForMac/NSString+URLArguments (~> 2.1)"
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GoogleToolboxForMac/DebugUtils (2.2.0):
+    - GoogleToolboxForMac/Defines (= 2.2.0)
+  - GoogleToolboxForMac/Defines (2.2.0)
+  - "GoogleToolboxForMac/NSDictionary+URLArguments (2.2.0)":
+    - GoogleToolboxForMac/DebugUtils (= 2.2.0)
+    - GoogleToolboxForMac/Defines (= 2.2.0)
+    - "GoogleToolboxForMac/NSString+URLArguments (= 2.2.0)"
+  - "GoogleToolboxForMac/NSString+URLArguments (2.2.0)"
+  - GTMSessionFetcher/Core (1.2.1)
+  - ImageSlideshow (1.7.0):
+    - ImageSlideshow/Core (= 1.7.0)
+  - ImageSlideshow/Core (1.7.0)
+  - ImageSlideshow/SDWebImage (1.7.0):
+    - ImageSlideshow/Core
+    - SDWebImage (< 5.0, >= 3.7)
+  - IQKeyboardManagerSwift (6.0.4)
+  - liquid-swipe (0.7.0):
+    - pop (~> 1.0)
+  - MIBadgeButton-Swift (0.5)
+  - NVActivityIndicatorView (4.6.0):
+    - NVActivityIndicatorView/Presenter (= 4.6.0)
+  - NVActivityIndicatorView/Presenter (4.6.0)
+  - ObjectMapper (2.2.9)
+  - PKRevealController (2.0.6)
+  - pop (1.0.12)
+  - SCLAlertView (0.8)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SVProgressHUD (2.0-beta)
+  - SwiftyUserDefaults (3.0.1)
+  - TwitterCore (3.2.0)
+  - TwitterKit (3.4.2):
+    - TwitterCore (>= 3.2.0)
+  - WaterfallLayout (0.2)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - Alamofire
+  - AlamofireObjectMapper (~> 4.0)
+  - DatePickerDialog
+  - FacebookCore
+  - FacebookLogin
+  - FacebookShare
+  - Gallery
+  - GoogleSignIn
+  - ImageSlideshow (~> 1.6)
+  - ImageSlideshow/SDWebImage
+  - IQKeyboardManagerSwift (= 6.0.4)
+  - liquid-swipe
+  - MIBadgeButton-Swift (from `https://github.com/mustafaibrahim989/MIBadgeButton-Swift.git`, branch `master`)
+  - NVActivityIndicatorView
+  - PKRevealController
+  - SCLAlertView
+  - SDWebImage (~> 3.8)
+  - SVProgressHUD (= 2.0-beta)
+  - SwiftyUserDefaults
+  - TwitterKit
+  - WaterfallLayout (~> 0.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ActionSheetPicker-3.0
+    - Alamofire
+    - AlamofireObjectMapper
+    - Bolts
+    - DatePickerDialog
+    - FacebookCore
+    - FacebookLogin
+    - FacebookShare
+    - FBSDKCoreKit
+    - FBSDKLoginKit
+    - FBSDKShareKit
+    - Gallery
+    - GoogleSignIn
+    - GoogleToolboxForMac
+    - GTMSessionFetcher
+    - ImageSlideshow
+    - IQKeyboardManagerSwift
+    - liquid-swipe
+    - NVActivityIndicatorView
+    - ObjectMapper
+    - PKRevealController
+    - pop
+    - SCLAlertView
+    - SDWebImage
+    - SVProgressHUD
+    - SwiftyUserDefaults
+    - TwitterCore
+    - TwitterKit
+    - WaterfallLayout
+
+EXTERNAL SOURCES:
+  MIBadgeButton-Swift:
+    :branch: master
+    :git: https://github.com/mustafaibrahim989/MIBadgeButton-Swift.git
+
+CHECKOUT OPTIONS:
+  MIBadgeButton-Swift:
+    :commit: 3c2638d2e6e46ec2e6dd978d8ada8863df3df5e6
+    :git: https://github.com/mustafaibrahim989/MIBadgeButton-Swift.git
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: eef157d75e151f255c5333d26656c7fbfe905a51
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  AlamofireObjectMapper: 435adc82f5b367679bd9e71c4974a54efd0b2521
+  Bolts: ac6567323eac61e203f6a9763667d0f711be34c8
+  DatePickerDialog: 5e1c24d9fe6506cd45dbc573eed7b0a251b1c09d
+  FacebookCore: 74288d0add931d361b1596beae787ab72c438249
+  FacebookLogin: ebcf34714a1cb9f0759d9f071cfb01ed500996cf
+  FacebookShare: 963b4bb1124a64a395b1e428163d70b5774116e8
+  FBSDKCoreKit: ae214474b25033399c131dc81d258e412582a2ba
+  FBSDKLoginKit: 7a1e411d46acc8834588eca437daf34de42e1d52
+  FBSDKShareKit: 0e45916f4150da485928ae2a17ca021950b194f5
+  Gallery: 3f4c780c4b22906d6b0a5e55d12167cdc4b4fc5b
+  GoogleSignIn: 7ff245e1a7b26d379099d3243a562f5747e23d39
+  GoogleToolboxForMac: ff31605b7d66400dcec09bed5861689aebadda4d
+  GTMSessionFetcher: 32aeca0aa144acea523e1c8e053089dec2cb98ca
+  ImageSlideshow: f8eec5e37a980f60923b585ff23b0e140fd24018
+  IQKeyboardManagerSwift: 36dbe324b4f9793f5f41ba5227f3e7c76dfefd50
+  liquid-swipe: 850f88c0717fe58ba83f0f571c47a191f29ddc1f
+  MIBadgeButton-Swift: 9e57309b00b168d75ca8fecb45bc75124a8ffddf
+  NVActivityIndicatorView: 9c3704896798b042315e2a154dc27e48384756f0
+  ObjectMapper: 63cfe41bc6f8e7c8f44344c49901b8ae7de14c52
+  PKRevealController: ffb45a16f5a5032ad90a3d16e5cbb0d8e035bd58
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SVProgressHUD: c83337f10ed32d701c423d519059a249973c8662
+  SwiftyUserDefaults: 3d273b1739b68ada3145dc754a70ec775bc5c8be
+  TwitterCore: 8cbc9ad34d91c63a0035ea05bfbfc0d7ca72a28c
+  TwitterKit: 5e4f41d70b9abdb41df5467f52d7aa2c0fd26ebb
+  WaterfallLayout: 030e04b041e5c6c47ae2c1eaa685c60289fab0b1
+
+PODFILE CHECKSUM: 7bd3bbe7f6ccec36991a2202e9c22c9cf01481ce
+
+COCOAPODS: 1.5.2

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GARAGE SALE/ViewController/GSSignUpSelectionVC/GHSignUpVC.swift"
+            timestampString = "570297991.331646"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "registrationDidSucceed()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GARAGE_SALE.GHSignUpVC.registrationDidSucceed() -&gt; ()"
+                  moduleName = "GARAGE SALE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmed/Documents/GARAGE%20SALE/GARAGE%20SALE/ViewController/GSSignUpSelectionVC/GHSignUpVC.swift"
+                  timestampString = "570142631.652989"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "4253">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Any) -&gt; () in GARAGE_SALE.GHSignUpVC.registrationDidSucceed() -&gt; ()"
+                  moduleName = "GARAGE SALE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmed/Documents/GARAGE%20SALE/GARAGE%20SALE/ViewController/GSSignUpSelectionVC/GHSignUpVC.swift"
+                  timestampString = "570142631.655051"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "57">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GARAGE SALE/ViewController/GSSignUpSelectionVC/GHSignUpVC.swift"
+            timestampString = "570297991.3317651"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "registrationDidSucceed()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GARAGE SALE/UICollectionViewCell/RecentPostCell.swift"
+            timestampString = "570297991.331846"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "prepareForReuse()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
